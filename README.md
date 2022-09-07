@@ -37,6 +37,6 @@
 
 ## Time taken to finish this project
 
--   8 hour taken to complete this project.
+-   12 hour taken to complete this project.
 
 
